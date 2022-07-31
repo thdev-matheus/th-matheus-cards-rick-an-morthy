@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://w0.peakpx.com/wallpaper/373/695/HD-wallpaper-spectre-rick-morty-rick-and-morty-thumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+@media (min-width: 375px) {
+  body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4MqeDxg5ua0qUq3JfRO5f8EA2osGCypDMPg&usqp=CAU");
+  }
+}
+
+@media (min-width: 426px) {
+  body {
+    background-image: url("https://wallpaperaccess.com/full/5196310.png");
+  }
+}
